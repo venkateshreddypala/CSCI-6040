@@ -1,4 +1,6 @@
 # CSCI-6040
+
+This is course-content to be taught at ECU for Natural Language Processing and Natural Language Uniderstanding.
 Natural Language Processing using Deep Neural Networks
 
 https://github.com/keon/awesome-nlp#other-languages
