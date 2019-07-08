@@ -1,6 +1,7 @@
 # CSCI-6040
 
 This is course-content to be taught at ECU for Natural Language Processing and Natural Language Uniderstanding.
+We begin this by introducing to python with python3 review
 Natural Language Processing using Deep Neural Networks
 
 https://github.com/keon/awesome-nlp#other-languages
