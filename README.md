@@ -1,6 +1,6 @@
 # NLP/NLU Notebooks
 ---
-A collection of Jupyter Notebooks to illustrate the concepts in the Feilds of Natural Langauge Processing and Natural Language Understanding
+A collection of Jupyter Notebooks to illustrate the important concepts in the feilds of Natural Langauge Processing and Natural Language Understanding
 
 ---
 ## Topics
