@@ -1,11 +1,10 @@
 # NLP/NLU Notebooks
----
+
 A collection of Jupyter Notebooks to illustrate the important concepts in the feilds of Natural Langauge Processing and Natural Language Understanding
 
----
 ## Topics
 
----
+
 ### Traditional NLP 
   1. 
   
@@ -14,7 +13,6 @@ A collection of Jupyter Notebooks to illustrate the important concepts in the fe
 1. Introduction to PyTorch
   
 
----
 ##  Languages, Frameworks and Datasets
 
   ### Python
@@ -23,8 +21,7 @@ A collection of Jupyter Notebooks to illustrate the important concepts in the fe
   
   ### Datasets
   
-  
---- 
+
 ## References
 
 
