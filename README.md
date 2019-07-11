@@ -1,4 +1,33 @@
-# CSCI-6040
+# NLP/NLU Notebooks
+---
+A collection of Jupyter Notebooks to illustrate the concepts in the Feilds of Natural Langauge Processing and Natural Language Understanding
+
+---
+## Topics
+
+---
+### Traditional NLP 
+  1. 
+  
+  
+### NLP/NLU using Deep Learning
+1. Introduction to PyTorch
+  
+
+---
+##  Languages, Frameworks and Datasets
+
+  ### Python
+  
+  ### PyTorch
+  
+  ### Datasets
+  
+  
+--- 
+## References
+
+
 
 This is course-content to be taught at ECU for Natural Language Processing and Natural Language Uniderstanding.
 We begin this by introducing to python with python3 review
