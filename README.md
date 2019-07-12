@@ -25,6 +25,9 @@ For any NLP problem the approach has to be effecitve but have to be from simple 
 3. Understand what is the tradeoff with the model you choose and se if you can improve the performance, if so do it!
 4. The knowledge you acquired at the previous step is actually helpful to judge the performance of the model on the slected     data or the complex model.
 
+---
+ For real time processing you can look into clousd services such as AWS,GCP, Spark, Kafka but if the setup is local 
+
 
 
 ## Topics
