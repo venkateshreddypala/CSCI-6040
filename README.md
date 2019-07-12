@@ -18,6 +18,14 @@ These notebooks prepare induviduals to Gather, prepare and ingesting real-time d
 
 ---
 
+For any NLP problem the approach has to be effecitve but have to be from simple easy to ingest models.
+
+1. We will start with building notebooks that are quick and simple.
+2. Explain it's predictions.
+3. Understand what is the tradeoff with the model you choose and se if you can improve the performance, if so do it!
+4. The knowledge you acquired at the previous step is actually helpful to judge the performance of the model on the slected     data or the complex model.
+
+
 
 ## Topics
 
