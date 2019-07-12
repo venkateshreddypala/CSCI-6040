@@ -11,6 +11,13 @@ Some implementations of NLP we see in our day to day life are:
 
 There are many other applications to the NLP/NLU and is an active research area. Topic of intrest for many and applied to many feilds for numerous applications.
 
+---
+These notebooks not only targets the audience who cna refer to the exercises to learn about concepts but also to anyone who wants to build a real-world nlp solution. Real-World data is far from the academic reseacrh and mostly availble in raw form, we start at that point and will build solutions to many complex solutions.
+
+These notebooks prepare induviduals to Gather, prepare and ingesting real-time data. We start with building simple models to start and we will eventually explore deep learning technologies which performs effectively on nosiy and learns features on the fly. With these notebooks users will be able to intrepret and understand the structure of models. We also try to demonstrate how some frameworks perform better than others.
+
+---
+
 
 ## Topics
 
