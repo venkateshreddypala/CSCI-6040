@@ -49,6 +49,11 @@ For any NLP problem the approach has to be effecitve but have to be from simple 
   
   ### Datasets
   In the respective notebooks, we included where and how to munge the data, please create the folders and split the data accordingly as mentioned in the notebooks. Please make sure the path to the data folder is mentioned accurately.
+  
+
+If you want to host your dataset you can also use platforms such as Google Drive and Python packages such as gdown to import them directly into your notebook when needed.
+
+
   1. GloVe word embeddings http://nlp.stanford.edu/data/glove.6B.zip, download the data and extract the      text file into a folder with a file path data/glove/name_of_txt_file.
   2. Yelp 
      Sign-up at the following location to download the dataset.For the scope of these notebooks we only       need the review dataset.
