@@ -1,0 +1,12 @@
+nltk
+tqdm
+matplotlib
+jupyter
+pandas
+keras
+scipy
+genism
+annoy
+numpy
+requests
+torch
