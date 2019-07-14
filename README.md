@@ -58,6 +58,8 @@ For any NLP problem the approach has to be effecitve but have to be from simple 
 ## References
 1. Models implemented using AG news corpus
 http://nlpprogress.com/english/text_classification.html
+2. STATE-OF-THE-ART METHODS FOR NEURAL MACHINE TRANSLATION & MULTILINGUAL TASKS 
+https://www.topbots.com/ai-nlp-research-neural-machine-translation/
 
 
 
