@@ -49,14 +49,15 @@ For any NLP problem the approach has to be effecitve but have to be from simple 
   
   ### Datasets
   In the respective notebooks, we included where and how to munge the data, please create the folders and split the data accordingly as mentioned in the notebooks. Please make sure the path to the data folder is mentioned accurately.
-  1. GloVe word embeddings http://nlp.stanford.edu/data/glove.6B.zip, download the data and extract the text file into a folder with a file path data/glove/name_of_txt_file.
+  1. GloVe word embeddings http://nlp.stanford.edu/data/glove.6B.zip, download the data and extract the      text file into a folder with a file path data/glove/name_of_txt_file.
   2. Yelp 
-  Sign-up at the following location to download the dataset.For the scope of these notebooks we only need the review dataset.
-  3. AG news 
-  
-  
-
+     Sign-up at the following location to download the dataset.For the scope of these notebooks we only       need the review dataset.
+  3. AG news dataset consists of news articles with 4 largest classes. 30K training samples, 1900            examples for each class for testing.
+     http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html
+  4. 
 ## References
+1. Models implemented using AG news corpus
+http://nlpprogress.com/english/text_classification.html
 
 
 
